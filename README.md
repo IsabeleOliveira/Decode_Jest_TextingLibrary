@@ -1,3 +1,4 @@
+# Testando aplicações React com Jest & Testing Library - Decode
 - Testing DOM
   - debug;
   - rerender with new prop;
